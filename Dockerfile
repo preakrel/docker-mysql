@@ -1,4 +1,4 @@
-FROM mysql:8.0
+FROM mysql:8
 MAINTAINER <1396981439@qq.com>
 USER mysql
 COPY my.cnf /etc/mysql/
